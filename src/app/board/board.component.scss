@@ -1,0 +1,13 @@
+main {
+  display: grid;
+  grid-template-columns: 2em 2em 2em;
+  grid-gap: 1px;
+  font-size: 32px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+app-square {
+  height: 2em;
+}
